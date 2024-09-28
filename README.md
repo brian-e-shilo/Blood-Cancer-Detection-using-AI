@@ -5,6 +5,7 @@ This project aims to develop a AI model for blood cancer detection using Convolu
 ## Dataset
 
 The dataset used for training consists of 17,092 images of normal blood cells. These images were collected from individuals without any hematologic or oncologic diseases, ensuring a diverse and representative dataset for training the model.
+The dataset can be downloaded from here - https://bit.ly/4dnHxX0
 
 ## Model Architecture
 
