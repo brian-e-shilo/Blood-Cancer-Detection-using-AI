@@ -30,4 +30,4 @@ To use the trained model for blood cancer detection, simply input an image of a 
 - NumPy
 - Matplotlib
 
-This project is an adaptation from the original project on detection of Blood cancer using AI by Mahdi Navaei.
+This project is an adaptation from the original project on detection of Blood cancer using Deep Learning by Mahdi Navaei.
